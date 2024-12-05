@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cpu-scheduling-visualizer/static/css/main.13c828c4.css",
+    "main.js": "/cpu-scheduling-visualizer/static/js/main.5a7772b5.js",
+    "static/js/453.6c73c3fc.chunk.js": "/cpu-scheduling-visualizer/static/js/453.6c73c3fc.chunk.js",
+    "index.html": "/cpu-scheduling-visualizer/index.html",
+    "main.13c828c4.css.map": "/cpu-scheduling-visualizer/static/css/main.13c828c4.css.map",
+    "main.5a7772b5.js.map": "/cpu-scheduling-visualizer/static/js/main.5a7772b5.js.map",
+    "453.6c73c3fc.chunk.js.map": "/cpu-scheduling-visualizer/static/js/453.6c73c3fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c828c4.css",
+    "static/js/main.5a7772b5.js"
+  ]
+}
